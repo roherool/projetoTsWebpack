@@ -1,0 +1,1 @@
+(()=>{var a;[1,2,3].push(4),[4,5,6].push(7),function(a){a[a.Aguardando=0]="Aguardando",a[a.Cancelado=1]="Cancelado",a[a.Pago=2]="Pago",a[a.Processando=3]="Processando"}(a||(a={})),a.Cancelado})();
